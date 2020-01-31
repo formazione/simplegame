@@ -130,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1153.857"
-     inkscape:cy="808.6739"
+     inkscape:zoom="5.6"
+     inkscape:cx="251.50294"
+     inkscape:cy="557.35834"
      inkscape:document-units="mm"
      inkscape:current-layer="g895"
      showgrid="false"
@@ -163,8 +163,11 @@
        style="stroke-width:1.32561493">
       <g
          style="stroke-width:2.75557804"
-         transform="matrix(0.3434413,0.33749942,-0.33622761,0.34342956,-211.11864,27.16073)"
-         id="g1112">
+         transform="matrix(0.48104365,-0.00466457,0.00463042,0.4810435,80.997086,95.89612)"
+         id="g1112"
+         inkscape:export-filename="H:\simplegame\sg3\imgs\player.PNG"
+         inkscape:export-xdpi="158"
+         inkscape:export-ydpi="158">
         <path
            style="fill:#00c3ff;fill-opacity:1;stroke:#5a77d4;stroke-width:0.45467037;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.7807017"
            d="m 11.481027,136.50186 2.740327,-4.29948 4.724702,1.08668 4.252233,0.0945 4.864268,-1.0318 1.606398,4.8192 c -3.354537,-1.22843 -5.226701,-1.30844 -6.943138,0.55932 l -3.449032,0.0473 c 0,0 -0.09882,-2.43581 -4.488468,-1.32292 l -4.346726,4.11049 z"
