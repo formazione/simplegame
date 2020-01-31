@@ -38,22 +38,17 @@ count = tragitto
 # Whe the enemy's hit
 hit = 0
 
-# ====================== Functions ============
-def enemy_hit():
-    "Animation of the enemy when hit"
-    enemy.y += .1
-    if enemy.y > 400:
-        enemy.y = 10
-        enemy.x = randrange(1, 500)
-    return enemy.x, enemy.y
 
 
 # ==================== THE WHILE LOOP ========
 loop = 1
 while loop:
     if hit == 1:
-        enemy.x, enemy.y = enemy_hit()
-        hit = 0
+            enemy.y += .1
+    if enemy.y > 400:
+        enemy.y = 10
+        enemy.x = randrange(1, 500)
+
 
     screen.fill((0, 0, 0))
     count -= 1
